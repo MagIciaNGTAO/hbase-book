@@ -2,3 +2,8 @@
 *.iml
 target/
 .idea/
+*.class
+*.prefs
+*/.classpath
+.project
+*/.project
